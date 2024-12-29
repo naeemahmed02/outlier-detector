@@ -1,0 +1,9 @@
+README.md
+setup.py
+outlier_detector/__init__.py
+outlier_detector/detector.py
+outlier_detector.egg-info/PKG-INFO
+outlier_detector.egg-info/SOURCES.txt
+outlier_detector.egg-info/dependency_links.txt
+outlier_detector.egg-info/requires.txt
+outlier_detector.egg-info/top_level.txt
